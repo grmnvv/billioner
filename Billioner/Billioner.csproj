@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC86C5C8-3B30-4335-8957-A80119CCC634}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Billioner</RootNamespace>
+    <AssemblyName>Billioner</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>iconfinder-gamepad-4341293_120527 %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="billioner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="billioner.Designer.cs">
+      <DependentUpon>billioner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="billioner2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="billioner2.Designer.cs">
+      <DependentUpon>billioner2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SmenaAvatarki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmenaAvatarki.Designer.cs">
+      <DependentUpon>SmenaAvatarki.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="billioner.resx">
+      <DependentUpon>billioner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="billioner2.resx">
+      <DependentUpon>billioner2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SmenaAvatarki.resx">
+      <DependentUpon>SmenaAvatarki.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\misha.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dibrov_10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goblet-off.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_pig.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owl.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\presentblue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1525374264_7f85e7b1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\korol.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4uvak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bdender.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="iconfinder-gamepad-4341293_120527 %281%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

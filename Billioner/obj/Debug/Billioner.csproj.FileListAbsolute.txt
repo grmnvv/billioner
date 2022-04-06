@@ -1,0 +1,35 @@
+Z:\С# billioner\Billioner\Billioner\bin\Debug\Billioner.exe.config
+Z:\С# billioner\Billioner\Billioner\bin\Debug\Billioner.exe
+Z:\С# billioner\Billioner\Billioner\bin\Debug\Billioner.pdb
+Z:\С# billioner\Billioner\Billioner\obj\Debug\Billioner.csprojAssemblyReference.cache
+Z:\С# billioner\Billioner\Billioner\obj\Debug\Billioner.billioner.resources
+Z:\С# billioner\Billioner\Billioner\obj\Debug\Billioner.Properties.Resources.resources
+Z:\С# billioner\Billioner\Billioner\obj\Debug\Billioner.csproj.GenerateResource.cache
+Z:\С# billioner\Billioner\Billioner\obj\Debug\Billioner.csproj.CoreCompileInputs.cache
+Z:\С# billioner\Billioner\Billioner\obj\Debug\Billioner.exe
+Z:\С# billioner\Billioner\Billioner\obj\Debug\Billioner.pdb
+Z:\С# billioner\Billioner\Billioner\obj\Debug\Billioner.billioner2.resources
+Z:\C#_Itog\С# billioner\Billioner\Billioner\bin\Debug\Billioner.exe.config
+Z:\C#_Itog\С# billioner\Billioner\Billioner\bin\Debug\Billioner.exe
+Z:\C#_Itog\С# billioner\Billioner\Billioner\bin\Debug\Billioner.pdb
+Z:\C#_Itog\С# billioner\Billioner\Billioner\obj\Debug\Billioner.csprojAssemblyReference.cache
+Z:\C#_Itog\С# billioner\Billioner\Billioner\obj\Debug\Billioner.billioner.resources
+Z:\C#_Itog\С# billioner\Billioner\Billioner\obj\Debug\Billioner.billioner2.resources
+Z:\C#_Itog\С# billioner\Billioner\Billioner\obj\Debug\Billioner.Properties.Resources.resources
+Z:\C#_Itog\С# billioner\Billioner\Billioner\obj\Debug\Billioner.csproj.GenerateResource.cache
+Z:\C#_Itog\С# billioner\Billioner\Billioner\obj\Debug\Billioner.csproj.CoreCompileInputs.cache
+Z:\C#_Itog\С# billioner\Billioner\Billioner\obj\Debug\Billioner.exe
+Z:\C#_Itog\С# billioner\Billioner\Billioner\obj\Debug\Billioner.pdb
+Z:\C#_Itog\С# billioner\Billioner\Billioner\obj\Debug\Billioner.SmenaAvatarki.resources
+C:\Users\Егор\Desktop\Billioner\Billioner\bin\Debug\Billioner.exe.config
+C:\Users\Егор\Desktop\Billioner\Billioner\bin\Debug\Billioner.exe
+C:\Users\Егор\Desktop\Billioner\Billioner\bin\Debug\Billioner.pdb
+C:\Users\Егор\Desktop\Billioner\Billioner\obj\Debug\Billioner.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Billioner\Billioner\obj\Debug\Billioner.billioner.resources
+C:\Users\Егор\Desktop\Billioner\Billioner\obj\Debug\Billioner.billioner2.resources
+C:\Users\Егор\Desktop\Billioner\Billioner\obj\Debug\Billioner.Properties.Resources.resources
+C:\Users\Егор\Desktop\Billioner\Billioner\obj\Debug\Billioner.SmenaAvatarki.resources
+C:\Users\Егор\Desktop\Billioner\Billioner\obj\Debug\Billioner.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Billioner\Billioner\obj\Debug\Billioner.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Billioner\Billioner\obj\Debug\Billioner.exe
+C:\Users\Егор\Desktop\Billioner\Billioner\obj\Debug\Billioner.pdb
